@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shiv-Mangal
-- 👀 I’m interested in applicaton of data science for geosciences.
+- 👀 I’m interested in applicaton of data sciences for geosciences.
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on projects based on tomography and inversion of geophysical datasets
 - 📫 reach me @shivmangal3210@gmail.com
